@@ -1,0 +1,25 @@
+envk/
+.envk/
+.envk/
+
+
+
+# Ignorar cache de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos temporales
+*.tmp
+*.log
+*.out
+*.err
+
+# Cache de pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignorar archivos de configuración locales
+*.local
+envk/
