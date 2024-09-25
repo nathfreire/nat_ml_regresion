@@ -3,7 +3,9 @@ envk/
 .envk/
 
 
-
+.csv
+csv/
+.csv/
 # Ignorar cache de Python
 __pycache__/
 *.py[cod]
@@ -23,3 +25,8 @@ pip-delete-this-directory.txt
 # Ignorar archivos de configuración locales
 *.local
 envk/
+
+.png
+.png/
+png/
+png
