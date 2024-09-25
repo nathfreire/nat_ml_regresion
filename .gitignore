@@ -6,6 +6,9 @@ envk/
 .csv
 csv/
 .csv/
+#Ignorar todos los csv
+
+*.csv
 # Ignorar cache de Python
 __pycache__/
 *.py[cod]
@@ -26,7 +29,10 @@ pip-delete-this-directory.txt
 *.local
 envk/
 
-.png
-.png/
-png/
-png
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
